@@ -1,0 +1,12 @@
+gymnasium
+swig
+gymnasium[box2d]
+imageio==2.4.0
+matplotlib
+pyvirtualdisplay
+tf-agents[reverb]
+pyglet
+pybullet
+tensorflow
+reverb
+Pillow
